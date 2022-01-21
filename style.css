@@ -1,0 +1,19 @@
+*{
+      margin: 0;
+      box-sizing: border-box;
+  }
+  
+  body{
+    background-image: url('assets/images/unsplash-RTdRHgyGiiw.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .bg-pink{
+    background-color: #fddce9!important;
+  }
